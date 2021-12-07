@@ -426,6 +426,7 @@ section > p {
 section > p.standfirst {
     font-size: calc(20px + (24 - 20) * ((100vw - 320px) / (1140 - 320)));
     margin-bottom: 20px;
+    color: #fff;
 }
 
 section  ul { margin-bottom: 18px }
